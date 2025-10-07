@@ -1,6 +1,4 @@
-# NAPI Segurança Pública & Ciências Forenses
-
-Conteúdo está em elaboração.
+Conteúdo em elaboração.
 
 Cordialmente,
 Equipe Técnica
